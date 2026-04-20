@@ -1,0 +1,13 @@
+# Justificación de Tipos de Gráficos (Análisis con Python y Power BI)
+
+- **Top 10 SKU por revenue (Barras Horizontales):**
+  - Justificación: ...
+
+- **Evolución mensual de ventas (Líneas):**
+  - Justificación: ...
+
+- **Ticket promedio por categoría (Barras Verticales):**
+  - Justificación: ...
+
+- **Revenue por canal de venta:**
+  - Justificación: ...
